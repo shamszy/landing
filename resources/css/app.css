@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#header_slider #slide_item:nth-child(1){
+    background:url("https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg") no-repeat center center;
+      background-size: cover;
+    }
+    
+    #header_slider #slide_item:nth-child(2){ background:url("https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg") no-repeat center center;
+      background-size: cover;
+    }
+    
+    #header_slider #slide_item:nth-child(3){
+    background:url("https://images.pexels.com/photos/2067628/pexels-photo-2067628.jpeg") no-repeat center center;
+      background-size: cover;
+    }
+    
